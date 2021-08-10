@@ -2,7 +2,7 @@
 title: Bohee :)
 email: bohee.lee89@gmail.com
 url: https://example.github.io
-description: "Hi there, this is Bohee! My interest is in brain science and technology. I'd love to share my knowledge and experience with you, so don't hesitate to contact me for those topics or just for chitchats!"
+description: "Hi there, this is Bohee! My interest is in brain science and technology. "I'd love to share my knowledge and experience with you, so don't hesitate to contact me for those topics or just for chitchats!
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,9 +15,9 @@ footer: Bohee's Website
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://linkedin.com/bohee-lee
+    url: https://linkedin.com/in/bohee-lee
   - title: facebook
-    url: https//facebook.com/dasase012
+    url: https://facebook.com/dasase012
   - title: github
     url: https://github.com/dasase012
 
